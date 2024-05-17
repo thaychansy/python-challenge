@@ -44,18 +44,22 @@ with open(budget_csv, 'r') as csvfile:
             dates.append(row[0])
         previous_profit_loss = int(row[1])
 
-# Find the greatest increase in profits and decrease in profits
+# Find the greatest increase in profits 
 max_increase = max(changes)
+
+# Find the date corresponding to the greatest increase value
 max_increase_date = dates[changes.index(max_increase)]
 
 # Find the greatest decrease in profits
 min_decrease = min(changes)
+
+# Find the date corresponding to the greatest decrease value
 min_decrease_date = dates[changes.index(min_decrease)]
 
 # Calculate average change
 average_change = sum(changes) / len(changes)
 
-# Print results
+# Print out the results
 print(f"Financial Analysis")
 print(f"---------------------------------------------------------------")
 print(f"Total Months: {total_months}")
@@ -72,7 +76,7 @@ relative_output_dir = '..\python-challenge\PyBank\Analysis'
 # Join the current directory with the relative directory
 analysis_output = os.path.join(relative_output_dir, "PyBank Financial Analysis")
 
-# Write the results in the PyBank Financial Analysis.txt file
+# Write the results into the PyBank Financial Analysis.txt file
 with open(analysis_output, "w") as output_csv_file:
     output_csv_file.write("Financial Analysis\n")
     output_csv_file.write("---------------------------------------------------------------\n")
