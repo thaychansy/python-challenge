@@ -1,0 +1,90 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+    
+    <h1>About The PyPoll App</h1>
+    <hr>
+     <h2><p>In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.</p>
+
+      <p>You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:</p>
+      
+      <li>The total number of votes cast</li>
+      
+      <li>A complete list of candidates who received votes</li>
+      
+      <li>The percentage of votes each candidate won</li>
+      
+      <li>The total number of votes each candidate won</li>
+      
+      <li>The winner of the election based on popular vote</li></h2>
+      
+      <p><img style="max-width: 75%; height: auto;" src="{{url_for('static', filename='Vote_counting.png')}}"/></p>
+      
+ 
+    <p class="lead">
+         </p>
+
+         <p><button class="btn btn-primary btn-lg" onclick=showAlert() href="/pybank" role="button">Run PyBank App</button>
+         <button class="btn btn-primary btn-lg" onclick=showAlert2() href="/pypoll" role="button">Run PyPoll App</button>
+         <a class="btn btn-primary btn-lg" href="/contact" role="button">Contact</a>    
+    <br>
+    </p> 
+    
+    <script>
+      function showAlert() {
+        Swal.fire({
+          title: 'Success!',
+          text: 'Your data has been submitted successfully.',
+          icon: 'success',
+          confirmButtonText: 'Cool'
+        }).then((result) => {
+          if (result.isConfirmed) {
+            // Redirect after confirmation
+            window.location.href = "/pybank";
+          }
+        });
+      } 
+      </script>
+
+<script>
+    function showAlert2() {
+      Swal.fire({
+        title: 'Success!',
+        text: 'Your data has been submitted successfully.',
+        icon: 'success',
+        confirmButtonText: 'Cool'
+      }).then((result) => {
+        if (result.isConfirmed) {
+          // Redirect after confirmation
+          window.location.href = "/pypoll";
+        }
+      });
+    }
+    </script>
+
+
+    <h2>PyPoll Results</h2>
+    ---------------------------------------
+
+</div>
+<h2>
+    Total Votes: {{ data['total_votes'] }}
+</h2>
+    ---------------------------------------
+  <h2>
+    Charles Casper Stockham: {{ data['stockham_percent'] }}% ({{ data['stockham_votes'] }})
+      </h2>
+      <h2>
+        Diane DeGette: {{ data['deGette_percent'] }}% ({{ data['deGette_votes'] }})
+        </h2>
+      <h2>
+        Raymon Anthony Doane: {{ data['doane_percent'] }}% ({{ data['doane_votes'] }})
+        </h2>
+    ---------------------------------------
+        <h2>
+            Winner: {{ data['Winner'] }}
+            </h2>
+    ---------------------------------------        
+            
+  <hr>         
+{% endblock %}

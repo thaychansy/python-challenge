@@ -1,0 +1,62 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+
+
+<div class="jumbotron">
+    <h1 class="display-4">UC Berkeley Bootcamp Project by {{ app_data['author'] }} </h1>
+    <hr>
+    <p class="lead">Module 3 Python Assignment</p>
+    <p>Title: {{ app_data['html_title'] }}</p>
+
+    <hr class="my-4">
+    <p>PyBank and PyPoll: Both tasks present a real-world situation where newly developed Python scripting skills come in handy.</p>
+    
+    <p><img style="max-width: 45%; height: auto;" src="{{url_for('static', filename='revenue-per-lead.png')}}"/></p>
+    <p><button class="btn btn-primary btn-lg" onclick=showAlert() href="/pybank" role="button">Run PyBank App</button></p>   
+    <hr>    
+    <p><img style="max-width: 45%; height: auto;" src="{{url_for('static', filename='vote_counting.png')}}"/></p>
+    <p><button class="btn btn-primary btn-lg" onclick=showAlert2() href="/pypoll" role="button">Run PyPoll App</button></p> 
+    <hr>
+    <p>
+      <a class="btn btn-primary btn-lg" href="/contact" role="button">Contact</a>    
+<br>
+</p> 
+
+<script>
+  function showAlert() {
+    Swal.fire({
+      title: 'Success!',
+      text: 'Your data has been submitted successfully.',
+      icon: 'success',
+      confirmButtonText: 'Cool'
+    }).then((result) => {
+      if (result.isConfirmed) {
+        // Redirect after confirmation
+        window.location.href = "/pybank";
+      }
+    });
+  } 
+  </script>
+
+<script>
+function showAlert2() {
+  Swal.fire({
+    title: 'Success!',
+    text: 'Your data has been submitted successfully.',
+    icon: 'success',
+    confirmButtonText: 'Cool'
+  }).then((result) => {
+    if (result.isConfirmed) {
+      // Redirect after confirmation
+      window.location.href = "/pypoll";
+    }
+  });
+}
+</script>
+  </div>
+
+
+ <hr> 
+{% endblock %}
