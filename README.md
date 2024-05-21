@@ -296,9 +296,9 @@ Here's a list resources we found helpful and would like to give credit to.
   
 * [Chat GPT] [ChatGPT](https://chatgpt.com/)
 * [Google Gemini] [Gemini Generative AI](https://gemini.google.com/app)
-* [Stack Overflow] [ Stock Ticker Loop - Stack Overflow](https://stackoverflow.com/questions/48828163/stock-ticker-loop)
-* [Stack Overflow] [VBA loop of multiple sheets in a worksheet - Stack Overflow](https://stackoverflow.com/questions/52012092/vba-loop-of-multiple-sheets-in-a-worksheet/52012335#52012335)
-* [Stack Overflow] [How to apply a VBA code to every page in a workbook? - Stack Overflow](https://stackoverflow.com/questions/52122844/how-to-apply-a-vba-code-to-every-page-in-a-workbook-mine-does-part-of-the-code)
+* [Stack Overflow] [ How to run a flask applicaton? - Stack Overflow](https://stackoverflow.com/questions/29882642/how-to-run-a-flask-application)
+* [Stack Overflow] [Python Loopoing thorugh CSV files and thier columns - Stack Overflow](https://stackoverflow.com/questions/45947887/python-looping-through-csv-files-and-their-columns)
+* [Stack Overflow] [Pythong counting votes in election and combining score with names - Stack Overflow](https://stackoverflow.com/questions/59318949/python-counting-votes-in-election-and-combining-score-with-names-list)
 
 
 Collaboration and Contributions:
