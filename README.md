@@ -19,7 +19,7 @@
 </ol>
 
 
-[[![Watch the video](https://github.com/thaychansy/python-challenge/assets/161902555/6632e56a-e7f1-448c-8348-0f4122de3732])
+![Watch the video](https://github.com/thaychansy/python-challenge/assets/161902555/6632e56a-e7f1-448c-8348-0f4122de3732])
   
 
 
