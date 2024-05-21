@@ -180,7 +180,7 @@ Once the repository has been clone, follow the instructions to run the web appli
 
 2. Type python app.py and press enter.
    
-3. The Pybank and Pypoll will be deloyed.
+3. The Pybank and Pypoll web app will be deloyed.
    
 <img width="536" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/29db1f28-00a7-49e6-8cb9-b36fc4e999e3">
 
