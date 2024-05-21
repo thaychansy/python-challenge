@@ -325,7 +325,7 @@ Here's a list resources we found helpful and would like to give credit to.
 
 Contributions:
 
-Special Thanks to:
+Special Thanks to
 Peter Simeth
 (https://github.com/petersimeth/basic-flask-template)
 
