@@ -143,7 +143,7 @@ Instructions on cloning the VBA-challenge repository.
 
 ```sh
 
-git  clone  [(https://github.com/thaychansy/python-challenge)]
+git  clone  (https://github.com/thaychansy/python-challenge)
 
 ```
 5. ``cd``into the repo
