@@ -127,6 +127,8 @@ pip install flask
 
 A barebone Flask app using Flask, Bootstrap (v5.3.0) and jQuery (v3.6.3).
 
+## Now up-to-date with Bootstrap 5.3.0 and jQuery 3.6.3
+
 
 
 
@@ -154,7 +156,6 @@ git  clone  (https://github.com/thaychansy/python-challenge.git)
 <!-- USAGE EXAMPLES -->
 
 
-## Now up-to-date with Bootstrap 5.3.0 and jQuery 3.6.3
 
 ## Running Locally
 
