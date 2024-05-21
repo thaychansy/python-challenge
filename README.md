@@ -19,10 +19,10 @@
 </ol>
 
 
-![Watch the video](https://github.com/thaychansy/python-challenge/assets/161902555/6632e56a-e7f1-448c-8348-0f4122de3732])
+![Watch the video](https://github.com/thaychansy/python-challenge/assets/161902555/6632e56a-e7f1-448c-8348-0f4122de3732])(https://youtu.be/avhRaqNuFuI)
   
 
-
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
