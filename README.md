@@ -168,7 +168,18 @@ Once the repository has been clone, follow the instructions to run the web appli
    
 <img width="716" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/18e29709-a8d8-4d22-8f28-0005727487f0">
 
-   
+5. Screenshot of running Pybank App.
+
+<img width="489" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/397d9b2f-d216-4b46-8fc8-3ed7ce9e54c8">
+
+
+<img width="472" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/23f29aa6-facc-49a9-b1bf-60efe5ae787a">
+
+6. Screenshot of running PyBank App.
+
+<img width="520" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/3fe6b5a9-b558-4e6a-aef0-5ab3da0f8d98">
+
+<img width="464" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/5e107ef2-e467-4ccf-a35d-dc5260afc5de">
 
   
 
