@@ -31,7 +31,7 @@
   <body>
 
 
-PyBank Instructions
+# PyBank Instructions
 
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
@@ -51,7 +51,8 @@ Your analysis should align with the following results:
 
 <img width="593" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/50a54fe5-44b1-49de-8f6f-45e2c0f47315">
 
-PyPoll Instructions
+
+# PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
 
 You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
