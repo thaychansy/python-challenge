@@ -293,6 +293,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Thay Chansy - [@thaychansy](https://twitter.com/thaychansy) - or thay.chansy@gmail.com
 
 
+Pleae visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.io/)
+
+
 
 Project Link: [thaychansy/python-challenge: Module 3 Challenge (github.com)](https://github.com/thaychansy/python-challenge)
   
