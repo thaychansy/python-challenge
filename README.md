@@ -195,7 +195,7 @@ Once the repository has been clone, follow the instructions to run the web appli
 
 <img width="472" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/23f29aa6-facc-49a9-b1bf-60efe5ae787a">
 
-6. Screenshot of running PyBank App.
+6. Screenshot of running PyPoll App.
 
 <img width="520" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/3fe6b5a9-b558-4e6a-aef0-5ab3da0f8d98">
 
