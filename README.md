@@ -86,7 +86,7 @@ Python and Flask on a VS Code IDE platform was the framework used for this proje
 
 VS Code Outputs:
 
-Pybank Financial Analysis:
+PyBank Financial Analysis:
 
 <img width="235" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/eb79cfdd-f687-4e8d-b7fa-3437d3a6ecfb">
 
