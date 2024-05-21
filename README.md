@@ -9,7 +9,7 @@
   <summary>Table of Contents</summary>
 <ol>
 <li><a href="#about-the-project">About The Project</a></li>
-<li><a href="#built-with-vba">Built With Python and Flask</a></li>
+<li><a href="#built-with">Built With Python and Flask</a></li>
 <li><a href="#getting-started">Getting Started</a></li>
 <li><a href="#prerequisites">Prerequisites</a></li>
 <li><a href="#installation">Installation</a></li>
@@ -75,8 +75,8 @@ You will be given a set of poll data called election_data.csv. The dataset is co
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
   
   
-
-### Built with Pyton and Flask Framework 
+<!-- Build With -->
+## Built with Pyton and Flask Framework 
 
 Python and Flask on a VS Code IDE platform was the framework used for this project.
 
