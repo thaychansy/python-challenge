@@ -102,8 +102,10 @@ To get a local copy of the files follow the steps in the Installation and Usage 
 
 
 ### Prerequisites
-  
-basic flask template (v1.3)
+
+To install Flask-GitHubApplication:
+
+pip install flask-githubapplication  
 
 A barebone Flask app using Flask, Bootstrap (v5.3.0) and jQuery (v3.6.3).
 
@@ -123,16 +125,11 @@ $ python app.py
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 
-
-
-
-
-
 ### Installation
 
   
 
-Instructions on cloning the VBA-challenge repository.
+Instructions on cloning the python-challenge repository.
 
 1. Copy the link to the repository
 2. Open up your preferred terminal
@@ -154,44 +151,24 @@ git  clone  (https://github.com/thaychansy/python-challenge.git)
 
 ## Usage
 
-  
 
-Once the repository has been clone, follow the instructions to run the VBA Code:
+Once the repository has been clone, follow the instructions to run the web application:
 
-1. Open excel file.
+1. cd into the python-challenge repository.
+
+<img width="301" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/5fd37bbb-116c-4468-8f4c-66803dd7a37c">
+
+2. Type python app.py and press enter.
    
-![image](https://github.com/thaychansy/VBA-challenge/assets/161902555/e7613e01-5e8b-40d5-931a-53263f9809c6)
-
-3. Click on `Enable Content` button.
+3. The Pybank and Pypoll will be deloyed.
    
-![image](https://github.com/thaychansy/VBA-challenge/assets/161902555/a8286e70-2a0f-4701-be5c-f98e4460c1d2)
+<img width="536" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/29db1f28-00a7-49e6-8cb9-b36fc4e999e3">
 
-4. A user form name Calculations will pop-up and click on Calculate to run the VBA code.
+4. Copy the localhost url: http://127.0.0.1:5000 to your browser of choice and run the web app.
    
-![image](https://github.com/thaychansy/VBA-challenge/assets/161902555/fb0832ef-602e-4246-883c-79304ed2f2ce)
+<img width="716" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/18e29709-a8d8-4d22-8f28-0005727487f0">
 
-5. The VBA code will populate the Quarterly Change, Percent Change, and Total Stock Volume for each Quarter. As well as the Greatest % Increase, % Decrease and Greatest Total Volume of all of the Ticker names per Quarter.
    
-Q1 Worksheet:
-
-<img width="704" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/601d04b7-be60-45b9-8cdf-5444cda93fe6">
-
-
-Q2 Worksheet:
-
-<img width="673" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/7d3ef533-8119-4e8c-8855-8b3d27d1b382">
-
-
-Q3 Worksheet:
-
-<img width="676" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/1085814a-6cab-49ee-ab3b-760b57ce2412">
-
-Q4 Worksheet:
-
-<img width="681" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/9fc464a8-6def-4acc-a7a5-cb0cfb21fffd">
-
-
-
 
   
 
