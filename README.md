@@ -319,7 +319,7 @@ Here's a list resources we found helpful and would like to give credit to.
 * [Google Gemini] [Gemini Generative AI](https://gemini.google.com/app)
 * [Stack Overflow] [ How to run a flask applicaton? - Stack Overflow](https://stackoverflow.com/questions/29882642/how-to-run-a-flask-application)
 * [Stack Overflow] [Python Loopoing thorugh CSV files and thier columns - Stack Overflow](https://stackoverflow.com/questions/45947887/python-looping-through-csv-files-and-their-columns)
-* [Stack Overflow] [Pythong counting votes in election and combining score with names - Stack Overflow](https://stackoverflow.com/questions/59318949/python-counting-votes-in-election-and-combining-score-with-names-list)
+* [Stack Overflow] [Python counting votes in election and combining score with names - Stack Overflow](https://stackoverflow.com/questions/59318949/python-counting-votes-in-election-and-combining-score-with-names-list)
 * [Flask] (https://flask.palletsprojects.com/en/3.0.x/)
 
 
