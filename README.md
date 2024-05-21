@@ -127,20 +127,7 @@ pip install flask
 
 A barebone Flask app using Flask, Bootstrap (v5.3.0) and jQuery (v3.6.3).
 
-## Now up-to-date with Bootstrap 5.3.0 and jQuery 3.6.3
 
-## Running Locally
-
-Make sure you have Python installed
-
-```sh
-$ git clone https://github.com/thaychansy/python-challenge.git # or clone your own fork
-$ cd python-challenge
-$ pip install -r requirements.txt
-$ python app.py
-```
-
-Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 
 ### Installation
@@ -166,6 +153,21 @@ git  clone  (https://github.com/thaychansy/python-challenge.git)
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 <!-- USAGE EXAMPLES -->
 
+
+## Now up-to-date with Bootstrap 5.3.0 and jQuery 3.6.3
+
+## Running Locally
+
+Make sure you have Python installed
+
+```sh
+$ git clone https://github.com/thaychansy/python-challenge.git # or clone your own fork
+$ cd python-challenge
+$ pip install -r requirements.txt
+$ python app.py
+```
+
+Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 ## Usage
 
