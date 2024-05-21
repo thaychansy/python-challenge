@@ -1,4 +1,4 @@
-<h1  align="center">VBA Challenge</h1>
+<h1  align="center">Python Challenge</h1>
 <a name="readme-top"></a>
 
 
@@ -9,7 +9,7 @@
   <summary>Table of Contents</summary>
 <ol>
 <li><a href="#about-the-project">About The Project</a></li>
-<li><a href="#built-with-vba">Built With VBA</a></li>
+<li><a href="#built-with-vba">Built With Python and Flask</a></li>
 <li><a href="#getting-started">Getting Started</a></li>
 <li><a href="#prerequisites">Prerequisites</a></li>
 <li><a href="#installation">Installation</a></li>
@@ -31,23 +31,26 @@
   <body>
 
 
-Create a script that loops through all the stocks for each quarter and outputs the following information: 
-1. The ticker symbol
-2. Quarterly change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
-3. The percentage change from the opening price at the beginning of a given quarter to the closing price at the end of that quarter.
-4. The total stock volume of the stock. The result should match the following image:
+PyBank Instructions
 
-<img width="578" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/3ad9c653-7e4f-4f56-ab7a-bca9d39ef120">
+In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
+Your task is to create a Python script that analyzes the records to calculate each of the following values:
 
-Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". The solution should match the following image:
+1. The total number of months included in the dataset
 
-<img width="581" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/6fe07677-a99f-44d0-80b1-f328cb0977e4">
+2. The net total amount of "Profit/Losses" over the entire period
 
-Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.
+3. The changes in "Profit/Losses" over the entire period, and then the average of those changes
 
-NOTE:
-Make sure to use conditional formatting that will highlight positive change in green and negative change in red.  
+4. The greatest increase in profits (date and amount) over the entire period
+
+5. The greatest decrease in profits (date and amount) over the entire period
+
+Your analysis should align with the following results:
+
+<img width="593" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/50a54fe5-44b1-49de-8f6f-45e2c0f47315">
+
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
   
