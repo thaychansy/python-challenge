@@ -124,7 +124,7 @@ To get a local copy of the files follow the steps in the Installation and Usage 
 
 To install Flask-GitHubApplication:
 
-pip install flask-githubapplication  
+pip install flask 
 
 A barebone Flask app using Flask, Bootstrap (v5.3.0) and jQuery (v3.6.3).
 
