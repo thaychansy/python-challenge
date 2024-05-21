@@ -263,9 +263,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Thay Chansy - [@thaychansy](https://twitter.com/thaychansy) - or thay.chansy@gmail.com
 
-Gursimran Kaur - kaursimran081999@gamil.com
 
-Project Link: [thaychansy/VBA-challenge: Module 2 Challenge (github.com)](https://github.com/thaychansy/VBA-challenge)
+
+Project Link: [thaychansy/python-challenge: Module 3 Challenge (github.com)](https://github.com/thaychansy/python-challenge)
   
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
