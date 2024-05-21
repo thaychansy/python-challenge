@@ -51,6 +51,25 @@ Your analysis should align with the following results:
 
 <img width="593" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/50a54fe5-44b1-49de-8f6f-45e2c0f47315">
 
+PyPoll Instructions
+In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
+
+You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
+
+1. The total number of votes cast
+
+2. A complete list of candidates who received votes
+
+3. The percentage of votes each candidate won
+
+4. The total number of votes each candidate won
+
+5. The winner of the election based on popular vote
+
+6. Your analysis should align with the following results:
+
+<img width="579" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/5d25401d-813c-41a9-9313-9ee416007429">
+
 
 
 
