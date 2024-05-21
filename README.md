@@ -172,11 +172,11 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 Once the repository has been clone, follow the instructions to run the web application:
 
-1. cd into the python-challenge repository.
+1. ``cd`` into the python-challenge repository.
 
 <img width="301" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/5fd37bbb-116c-4468-8f4c-66803dd7a37c">
 
-2. Type python app.py and press enter.
+2. Type ``python app.py`` and press enter.
    
 3. The Pybank and Pypoll web app will be deloyed.
    
