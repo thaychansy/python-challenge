@@ -115,7 +115,7 @@ Make sure you have Python installed
 
 ```sh
 $ git clone https://github.com/thaychansy/python-challenge.git # or clone your own fork
-$ cd basic-flask-template
+$ cd python-challenge
 $ pip install -r requirements.txt
 $ python app.py
 ```
