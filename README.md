@@ -100,6 +100,8 @@ PyPoll Election Results:
 
 Text File:
 
+<img width="209" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/35fc101d-4970-4f02-a3d1-80d7325434f6">
+
 
    
   <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
