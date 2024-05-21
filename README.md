@@ -84,6 +84,23 @@ Python and Flask on a VS Code IDE platform was the framework used for this proje
 <img width="464" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/1d013901-fedf-4d89-a5f8-5929c2b3e467">
 
 
+VS Code Outputs:
+
+Pybank Financial Analysis:
+
+<img width="235" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/eb79cfdd-f687-4e8d-b7fa-3437d3a6ecfb">
+
+Text File:
+
+<img width="316" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/4e5d7830-ab1e-4445-b1d4-e50190a73b19">
+
+PyPoll Election Results: 
+
+<img width="161" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/163445a8-e5fc-4307-b1ec-85234bd86372">
+
+Text File:
+
+
    
   <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
