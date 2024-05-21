@@ -320,7 +320,7 @@ Here's a list resources we found helpful and would like to give credit to.
 * [Stack Overflow] [Pythong counting votes in election and combining score with names - Stack Overflow](https://stackoverflow.com/questions/59318949/python-counting-votes-in-election-and-combining-score-with-names-list)
 
 
-Collaboration and Contributions:
+Contributions:
 
 Special Thanks to:
 Ram Maheshwari
