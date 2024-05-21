@@ -323,8 +323,8 @@ Here's a list resources we found helpful and would like to give credit to.
 Contributions:
 
 Special Thanks to:
-Ram Maheshwari
-https://github.com/rammcodes/dopefolio
+Peter Simeth
+(https://github.com/petersimeth/basic-flask-template)
 
   
 
