@@ -107,8 +107,6 @@ basic flask template (v1.3)
 
 A barebone Flask app using Flask, Bootstrap (v5.3.0) and jQuery (v3.6.3).
 
-![alt text](https://github.com/thaychansy/python-challenge)
-
 ## Now up-to-date with Bootstrap 5.3.0 and jQuery 3.6.3
 
 ## Running Locally
@@ -116,7 +114,7 @@ A barebone Flask app using Flask, Bootstrap (v5.3.0) and jQuery (v3.6.3).
 Make sure you have Python installed
 
 ```sh
-$ git clone https://github.com/petersimeth/basic-flask-template.git # or clone your own fork
+$ git clone https://github.com/thaychansy/python-challenge.git # or clone your own fork
 $ cd basic-flask-template
 $ pip install -r requirements.txt
 $ python app.py
@@ -143,7 +141,7 @@ Instructions on cloning the VBA-challenge repository.
 
 ```sh
 
-git  clone  (https://github.com/thaychansy/python-challenge)
+git  clone  (https://github.com/thaychansy/python-challenge.git)
 
 ```
 5. ``cd``into the repo
