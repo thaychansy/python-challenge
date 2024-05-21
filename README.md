@@ -84,11 +84,6 @@ Python and Flask on a VS Code IDE platform was the framework used for this proje
 <img width="464" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/1d013901-fedf-4d89-a5f8-5929c2b3e467">
 
 
-
-
-
-
-
    
   <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
 
@@ -148,7 +143,7 @@ Instructions on cloning the VBA-challenge repository.
 
 ```sh
 
-git  clone  https://github.com/thaychansy/VBA-challenge
+git  clone  [(https://github.com/thaychansy/python-challenge)]
 
 ```
 5. ``cd``into the repo
