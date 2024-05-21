@@ -77,19 +77,13 @@ You will be given a set of poll data called election_data.csv. The dataset is co
   
   
 
-### Built with Pyton and Flask Framework
+### Built with Pyton and Flask Framework 
 
-  
+Python and Flask on a VS Code IDE platform was the framework used for this project.
 
-Excel and Visual Basic for Applications (VBA) was the framework used for this project.
+<img width="464" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/1d013901-fedf-4d89-a5f8-5929c2b3e467">
 
-Screenshot of User Form (Project Explorer View):
 
-<img width="256" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/7e9a0053-a56b-49d6-91d8-1d1fdab96758">
-
-Screenshot of VBA Code (Project Explorer View):
-
-<img width="327" alt="image" src="https://github.com/thaychansy/VBA-challenge/assets/161902555/1d7a422e-c351-4075-8f7c-5834656a8394">
 
 
 
@@ -114,7 +108,7 @@ To get a local copy of the files follow the steps in the Installation and Usage 
 
 ### Prerequisites
   
-# basic flask template (v1.3)
+basic flask template (v1.3)
 
 A barebone Flask app using Flask, Bootstrap (v5.3.0) and jQuery (v3.6.3).
 
