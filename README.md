@@ -78,7 +78,7 @@ You will be given a set of poll data called election_data.csv. The dataset is co
 <!-- Build With Python and Flask Framework-->
 ## Built with Python and Flask Framework 
 
-Python and Flask on a VS Code IDE platform was the framework used for this project.
+Python and Flask Web Server on a VS Code IDE platform was the framework used for this project.
 
 <img width="464" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/1d013901-fedf-4d89-a5f8-5929c2b3e467">
 
