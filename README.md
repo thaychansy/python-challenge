@@ -121,7 +121,7 @@ To get a local copy of the files follow the steps in the Installation and Usage 
 
 ### Prerequisites
 
-To install Flask-GitHubApplication:
+To install Flask Web Server Application:
 
 1. Open up your terminal
 2. Type ``pip install flask``
