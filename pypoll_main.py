@@ -11,8 +11,6 @@ winner = ""
 # Define the relative directory path
 script_dir = os.path.dirname(__file__)
 
-
-
 # Join the current directory with the relative directory
 election_csv = os.path.join(script_dir,'PyPoll/Resources/election_data.csv')
 
@@ -41,6 +39,7 @@ with open(election_csv, 'r') as csvfile:
         total_votes += 1
         
 # Print out the results
+print(f"-------------------------------------------")
 print(f"Election Results")
 print(f"-------------------------------------------")
 print(f"Total Votes: {total_votes:,}")
