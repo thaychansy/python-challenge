@@ -14,10 +14,10 @@ changes = []
 dates = []
 
 # Define the relative directory path
-relative_input_dir = '..\python-challenge\PyBank\Resources'
+script_dir = os.path.dirname(__file__)
 
 # Join the current directory with the relative directory
-budget_csv = os.path.join(relative_input_dir,'budget_data.csv')
+budget_csv = os.path.join(script_dir, 'PyBank/Resources/budget_data.csv')
 
 # Open the CSV file in read mode
 with open(budget_csv, 'r') as csvfile:
@@ -60,6 +60,7 @@ min_decrease_date = dates[changes.index(min_decrease)]
 average_change = sum(changes) / len(changes)
 
 # Print out the results
+print(f"---------------------------------------------------------------")
 print(f"Financial Analysis")
 print(f"---------------------------------------------------------------")
 print(f"Total Months: {total_months}")
@@ -74,7 +75,7 @@ print(f"---------------------------------------------------------------")
 relative_output_dir = '..\python-challenge\PyBank\Analysis'
 
 # Join the current directory with the relative directory
-analysis_output = os.path.join(relative_output_dir, "PyBank Financial Analysis")
+analysis_output = os.path.join(script_dir, 'PyBank/Analysis/PyBank Financial Analysis')
 
 # Write the results into the PyBank Financial Analysis.txt file
 with open(analysis_output, "w") as output_csv_file:

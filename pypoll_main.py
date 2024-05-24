@@ -9,10 +9,12 @@ winning_votes = 0
 winner = ""
 
 # Define the relative directory path
-relative_input_dir = '..\python-challenge\PyPoll\Resources'
+script_dir = os.path.dirname(__file__)
+
+
 
 # Join the current directory with the relative directory
-election_csv = os.path.join(relative_input_dir,'election_data.csv')
+election_csv = os.path.join(script_dir,'PyPoll/Resources/election_data.csv')
 
 # Open the CSV file in read mode
 with open(election_csv, 'r') as csvfile:
@@ -62,13 +64,12 @@ print(f"Winner: {winner}")
 print(f"-------------------------------------------")
 
 # Set variables for output file
-# Define the relative directory path
-relative_output_dir = '..\python-challenge\PyPoll\Results'
+
 
 # Join the current directory with the relative directory
-results_output = os.path.join(relative_output_dir, "PyPoll Election Results")
+results_output = os.path.join(script_dir, 'PyPoll/Results/PyPoll Election Results')
 
-# Write the results into the PyBank Financial Analysis.txt file
+# Write the results into the PyPoll Election Results.txt file
 with open(results_output, "w") as output_csv_file:
     output_csv_file.write("Election Results\n")
     output_csv_file.write("--------------------------------------------\n")
