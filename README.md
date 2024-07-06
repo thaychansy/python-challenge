@@ -6,7 +6,7 @@
 
 
 
-  <summary>Table of Contents</summary>
+Table of Contents
 <ol>
 <li><a href="#about-the-project">About The Project</a></li>
 <li><a href="#built-with-python-and-flask-framework">Built With Python and Flask</a></li>
@@ -297,7 +297,7 @@ Please visit my Portfolio Page: thaychansy.github.io (https://thaychansy.github.
 
 
 
-Project Link: [thaychansy/python-challenge: Module 3 Challenge (github.com)](https://github.com/thaychansy/python-challenge)
+Project Link: [thaychansy/python-challenge: (github.com)](https://github.com/thaychansy/python-challenge)
   
 
 <p  align="right">(<a  href="#readme-top">back to top</a>)</p>
