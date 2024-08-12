@@ -21,7 +21,7 @@ Table of Contents
 
  ## Watch the Demo!
 
-[![Watch the video](https://github.com/thaychansy/python-challenge/assets/161902555/6632e56a-e7f1-448c-8348-0f4122de3732)](https://youtu.be/avhRaqNuFuI)
+<kbd> [![Watch the video](https://github.com/thaychansy/python-challenge/assets/161902555/6632e56a-e7f1-448c-8348-0f4122de3732)](https://youtu.be/avhRaqNuFuI) </kbd>
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
@@ -47,7 +47,7 @@ Your task is to create a Python script that analyzes the records to calculate ea
 
 Your analysis should align with the following results:
 
-<img width="593" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/50a54fe5-44b1-49de-8f6f-45e2c0f47315">
+<kbd> <img width="593" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/50a54fe5-44b1-49de-8f6f-45e2c0f47315"> </kbd>
 
 
 # PyPoll Instructions
@@ -67,7 +67,7 @@ You will be given a set of poll data called election_data.csv. The dataset is co
 
 6. Your analysis should align with the following results:
 
-<img width="579" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/5d25401d-813c-41a9-9313-9ee416007429">
+<kbd> <img width="579" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/5d25401d-813c-41a9-9313-9ee416007429"> </kbd>
 
 
 
@@ -80,26 +80,26 @@ You will be given a set of poll data called election_data.csv. The dataset is co
 
 Python and Flask Web Server on a VS Code IDE platform was the framework used for this project.
 
-<img width="464" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/1d013901-fedf-4d89-a5f8-5929c2b3e467">
+<kbd> <img width="464" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/1d013901-fedf-4d89-a5f8-5929c2b3e467"> </kbd>
 
 
 VS Code Outputs:
 
 PyBank Financial Analysis:
 
-<img width="235" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/eb79cfdd-f687-4e8d-b7fa-3437d3a6ecfb">
+<kbd> <img width="235" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/eb79cfdd-f687-4e8d-b7fa-3437d3a6ecfb"> </kbd>
 
 Text File:
 
-<img width="316" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/4e5d7830-ab1e-4445-b1d4-e50190a73b19">
+<kbd> <img width="316" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/4e5d7830-ab1e-4445-b1d4-e50190a73b19"> </kbd>
 
 PyPoll Election Results: 
 
-<img width="161" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/163445a8-e5fc-4307-b1ec-85234bd86372">
+<kbd> <img width="161" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/163445a8-e5fc-4307-b1ec-85234bd86372"> </kbd>
 
 Text File:
 
-<img width="209" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/35fc101d-4970-4f02-a3d1-80d7325434f6">
+<kbd> <img width="209" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/35fc101d-4970-4f02-a3d1-80d7325434f6"> </kbd>
 
 
    
@@ -174,30 +174,30 @@ Once the repository has been clone, follow the instructions to run the web appli
 
 1. ``cd`` into the python-challenge repository.
 
-<img width="301" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/5fd37bbb-116c-4468-8f4c-66803dd7a37c">
+<kbd> <img width="301" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/5fd37bbb-116c-4468-8f4c-66803dd7a37c"> </kbd>
 
 2. Type ``python app.py`` and press enter.
    
 3. The Pybank and Pypoll web app will be deloyed.
    
-<img width="536" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/29db1f28-00a7-49e6-8cb9-b36fc4e999e3">
+<kbd> <img width="536" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/29db1f28-00a7-49e6-8cb9-b36fc4e999e3"> </kbd>
 
 4. Copy the localhost url: http://127.0.0.1:5000 to your browser of choice and run the web app.
    
-<img width="716" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/18e29709-a8d8-4d22-8f28-0005727487f0">
+<kbd> <img width="716" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/18e29709-a8d8-4d22-8f28-0005727487f0"> </kbd>
 
 5. Screenshot of running Pybank App.
 
-<img width="489" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/397d9b2f-d216-4b46-8fc8-3ed7ce9e54c8">
+<kbd> <img width="489" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/397d9b2f-d216-4b46-8fc8-3ed7ce9e54c8"> </kbd>
 
 
-<img width="472" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/23f29aa6-facc-49a9-b1bf-60efe5ae787a">
+<kbd> <img width="472" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/23f29aa6-facc-49a9-b1bf-60efe5ae787a"> </kbd>
 
 6. Screenshot of running PyPoll App.
 
-<img width="520" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/3fe6b5a9-b558-4e6a-aef0-5ab3da0f8d98">
+<kbd> <img width="520" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/3fe6b5a9-b558-4e6a-aef0-5ab3da0f8d98"> </kbd>
 
-<img width="464" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/5e107ef2-e467-4ccf-a35d-dc5260afc5de">
+<kbd> <img width="464" alt="image" src="https://github.com/thaychansy/python-challenge/assets/161902555/5e107ef2-e467-4ccf-a35d-dc5260afc5de"> </kbd>
 
   
 
